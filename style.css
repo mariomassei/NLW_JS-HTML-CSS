@@ -11,6 +11,8 @@
   -webkit-font-smooting: antialiased;
   -moz-osx-font-smooting: grayscale;
   -webkit-text-size-adjust: 100%;
+  align-items: center;
+  justify-items: center;
 
 }
 
