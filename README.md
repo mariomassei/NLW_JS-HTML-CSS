@@ -1,2 +1,2 @@
 # NLW_JS-HTML-CSS
-QUIZ
+QUIZ criado para pratica de programação de linguagem javascrip
